@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-python-child-process",
+  "version": "1.0.0",
+  "description": "this is a sample app to use js and python together",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KameronKales/NodeJs-Python-Child-Process.git"
+  },
+  "author": "kameron kales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KameronKales/NodeJs-Python-Child-Process/issues"
+  },
+  "homepage": "https://github.com/KameronKales/NodeJs-Python-Child-Process#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
